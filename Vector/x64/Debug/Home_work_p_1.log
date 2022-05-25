@@ -1,0 +1,2 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Home_work_p_1.vcxproj, Vector.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Home_work_p_1.vcxproj -> D:\Visual Studio\My_Projects\Home_work_p_1\x64\Debug\n3_Vector.exe

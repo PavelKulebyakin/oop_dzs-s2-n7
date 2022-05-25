@@ -1,0 +1,2 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (n3_Circle.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Circle.vcxproj -> D:\Visual Studio\My_Projects\Classes\x64\Debug\Circle.exe

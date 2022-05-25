@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  main.cpp
+D:\Visual Studio\My_Projects\Home_work_p_1\n3_Complex\main.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  n3_Complex.vcxproj -> D:\Visual Studio\My_Projects\Home_work_p_1\x64\Debug\n3_Complex.exe

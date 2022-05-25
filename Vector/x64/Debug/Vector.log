@@ -1,0 +1,8 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Home_work_p_1.vcxproj, n3_Vector.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\Visual Studio\My_Projects\Classes\Vector\main.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Vector.cpp
+D:\Visual Studio\My_Projects\Classes\Vector\Vector.cpp(5,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка D:\Visual Studio\My_Projects\Classes\x64\Debug\Vector.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Vector.vcxproj -> D:\Visual Studio\My_Projects\Classes\x64\Debug\Vector.exe
